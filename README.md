@@ -1,7 +1,7 @@
 ### ✨ Hi, I'm Edina Adjaro Patoussi ✨
 
-- **Mail**: [adjaropatoussi@gmail.com]
-- **LinkedIn**: [[edina-adjaro-patoussi]](www.linkedin.com/in/edina-adjaro-patoussi)
+- **Mail**: adjaropatoussi@gmail.com
+- **LinkedIn**: [edina-adjaro-patoussi]([www.linkedin.com/in/edina-adjaro-patoussi](https://www.linkedin.com/in/edina-adjaro-patoussi/))
 
 ##### I am currently in my final year of a Master's degree in Data Science, specializing in machine learning, deep learning (with a focus on computer vision), and MLOps. Through my studies, I have worked on numerous projects that have allowed me to develop skills in various domains, including:
 
