@@ -68,11 +68,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adjaro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-### :smile: Laugh a Little :
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+ 
 ---
 
 **Feel free to reach out to me for collaborations or discussions!** 😄
