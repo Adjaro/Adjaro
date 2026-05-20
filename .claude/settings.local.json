@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git -C /home/edward/Documents/Adjaro/ remote -v)"
-    ]
-  }
-}
